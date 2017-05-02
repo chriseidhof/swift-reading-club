@@ -12,7 +12,7 @@ Link to the paper [https://arxiv.org/pdf/1203.1539.pdf](https://arxiv.org/pdf/12
 
 The Eff programming language is described in the paper as an example of the eff programming model. This language has a distinct notion of *expressions* (inert from effects) and *computations* (effectful computation).
 
-Eff is essentially a simple ML (products, sums, functions) with the addition of effects and handlers. An effect is has a *row* of operations (in the beginning indexed via the subscript `i`, but later indexed by names) that take arbitrary input and output types `A_i -> B_i`. A handler provides an *interpretation* of the effects used in some computation.
+Eff is essentially a simple ML (products, sums, functions) with the addition of effects and handlers. An effect has a *row* of operations (in the beginning indexed via the subscript `i`, but later indexed by names) that take arbitrary input and output types `A_i -> B_i`. A handler provides an *interpretation* of the effects used in some computation.
 
 There is a notion of creating a resource `new E` that will generate a *fresh instance* of an effect `E`: think "mutable state" or "opening a file".
 
