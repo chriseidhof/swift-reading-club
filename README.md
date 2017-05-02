@@ -1,6 +1,16 @@
 # swift-reading-club
 
-## May 1
+## Upcoming
+
+### May 14
+
+Modules over Monads and their Algebras
+
+http://coalg.org/calco15/papers/p18-Pir%C3%B3g.pdf
+
+## Past Meetings
+
+### May 1
 
 Programming with Algebraic Effects and Handlers (Andrej Bauer and Matija Pretnar 2012)
 
