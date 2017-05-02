@@ -81,3 +81,5 @@ This is interesting. Monads do not compose either.
 Mine: https://gist.github.com/bkase/064f3a72eb4d6a11d8e723edc6b6157d
 @chriseidhof: https://gist.github.com/chriseidhof/c3918e870efae00eb3c1565ff6a9f289
 
+Chris: If you don't need the ability to call the continuation more than once, an effect could simply be specified as a protocol, and the handlers instances of that protocol. Instead of calling the continuation directly, the order of computation piggybacks on Swift's order of evaluation.
+
