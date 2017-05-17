@@ -76,3 +76,4 @@ Things that might be interesting to read:
 
 - Algebraic Subtyping (Dolan S)
 
+- Defunctionalization at Work (Danvy O)
