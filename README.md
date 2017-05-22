@@ -2,13 +2,20 @@
 
 ## Upcoming
 
+### May 30
+
+A Lightweight Approach to Datatype-Generic Rewriting
+
+http://www.cs.uu.nl/research/techreps/repo/CS-2008/2008-020.pdf
+
+
+## Past Meetings
+
 ### May 14
 
 Modules over Monads and their Algebras
 
 http://coalg.org/calco15/papers/p18-Pir%C3%B3g.pdf
-
-## Past Meetings
 
 ### May 1
 
