@@ -141,7 +141,8 @@ This is where I lost hope when reading. It's also where we essentially ran out o
 Briefly, we talked about this section (page 297 of the paper towards the bottom) because it is relevant to programming. It mentions streaming I/O libraries -- this I think is covered by the notion of a `Cofree` which I think is captured somewhere in the depths of this paper. To learn more about cofree streams watch [this talk by John De Goes](https://www.youtube.com/watch?v=R_nYc4FItcI).
 And algebraic effects are monads (see Eff monad in Purescript or Scala) or last paper. And finally in the last paragraph before the "Example", the author mentions that right-modules represent functions that run the computations in some context. In Example 3, the context was global state (the state monad), but it can work for other contexts. This reminds me in general in the idea of comonads as interpreters of programs. Remember a free monad describes a program.
 
-## Programs
+## Artifacts
 
 @chriseidhof [implemented a portion of this in Idris](https://gist.github.com/chriseidhof/0671f5a907042c4502e3b82bfce05a9a)
+@CodaFi was unable to make it to the meeting, but he [formalized some of the paper in Agda](https://gist.github.com/CodaFi/661585c1ae2b5bc99e1168912d62d5a5) and sent it over email. Thanks!
 

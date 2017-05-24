@@ -21,6 +21,7 @@ Summary: [2017-05-22-modules-over-monads.md](2017-05-22-modules-over-monads.md)
 
 Artifacts:
 - https://gist.github.com/chriseidhof/0671f5a907042c4502e3b82bfce05a9a
+- https://gist.github.com/CodaFi/661585c1ae2b5bc99e1168912d62d5a5
 
 ### May 1
 
