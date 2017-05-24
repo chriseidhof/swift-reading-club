@@ -19,11 +19,14 @@ http://coalg.org/calco15/papers/p18-Pir%C3%B3g.pdf
 
 Summary: [2017-05-22-modules-over-monads.md](2017-05-22-modules-over-monads.md)
 
+Artifacts:
+- https://gist.github.com/chriseidhof/0671f5a907042c4502e3b82bfce05a9a
+
 ### May 1
 
 Programming with Algebraic Effects and Handlers (Andrej Bauer and Matija Pretnar 2012)
 
-Paper: [https://arxiv.org/pdf/1203.1539.pdf](https://arxiv.org/pdf/1203.1539.pdf)
+https://arxiv.org/pdf/1203.1539.pdf
 
 Summary: [2017-05-01-effects.md](2017-05-01-effects.md)
 
