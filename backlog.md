@@ -77,3 +77,13 @@ Things that might be interesting to read:
 - Algebraic Subtyping (Dolan S)
 
 - Defunctionalization at Work (Danvy O)
+
+- Implementing Explicit and Finding Implicit Sharing in Embedded DSLs (Oleg Kiselyov)
+    - explains Hash consing for representing DAGs
+
+- The Key to a Data Parallel Compiler (Aaron Hsu)
+    - explains the "path matrix" structure for data-paralell tree transformations
+
+- Generic Porgramming with Adjunctions (Ralf Hinze)
+
+- Galculator: functional prototype of a Galois-connection based proof assistant (Paulo Silva, Jose Oliveira)
