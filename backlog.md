@@ -25,6 +25,7 @@ Things that might be interesting to read:
 - Datafun: a Functional Datalog (Arntzenius M, Krishnaswami N)
 
 - Type Systems as Macros (Chang S, Knauth A, Greenman B)
+  - http://www.ccs.neu.edu/home/stchang/popl2017/
 
 - An Introduction to the Theory of Lists (Bird R)
 
