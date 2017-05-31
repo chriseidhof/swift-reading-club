@@ -79,9 +79,6 @@ Things that might be interesting to read:
 
 - Defunctionalization at Work (Danvy O)
 
-- Implementing Explicit and Finding Implicit Sharing in Embedded DSLs (Oleg Kiselyov)
-    - explains Hash consing for representing DAGs
-
 - The Key to a Data Parallel Compiler (Aaron Hsu)
     - explains the "path matrix" structure for data-paralell tree transformations
 
