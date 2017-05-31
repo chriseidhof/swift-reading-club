@@ -1,6 +1,18 @@
 # swift-reading-club
 
+We have a Google Calendar with the upcoming meetings:
+
+[ical](https://calendar.google.com/calendar/ical/eidhof.nl_hn1posoi4arspqoq7i1bku0ih0%40group.calendar.google.com/public/basic.ics) and [html](https://calendar.google.com/calendar/embed?src=eidhof.nl_hn1posoi4arspqoq7i1bku0ih0%40group.calendar.google.com&ctz=America/New_York).
+
 ## Upcoming
+
+### June 13/14
+
+Implementing Explicit and Finding Implicit Sharing in Embedded DSLs
+
+http://okmij.org/ftp/tagless-final/sharing/sharing.pdf
+
+## Past Meetings
 
 ### May 30
 
@@ -8,8 +20,6 @@ A Lightweight Approach to Datatype-Generic Rewriting
 
 http://www.cs.uu.nl/research/techreps/repo/CS-2008/2008-020.pdf
 
-
-## Past Meetings
 
 ### May 14
 
