@@ -85,3 +85,6 @@ Things that might be interesting to read:
 - Generic Porgramming with Adjunctions (Ralf Hinze)
 
 - Galculator: functional prototype of a Galois-connection based proof assistant (Paulo Silva, Jose Oliveira)
+
+- Synchronous Functional Programming: The Lucid Synchrone Experiment ([pdf](http://www.di.ens.fr/~pouzet/bib/chap_lucid_synchrone_english_iste08.pdf))
+   - Noted by the Elm author as [very similar](http://elm-lang.org/blog/farewell-to-frp) to his ideas
