@@ -6,6 +6,14 @@ We have a Google Calendar with the upcoming meetings:
 
 ## Upcoming
 
+## June 27
+
+Synchronous Functional Programming: The Lucid Synchrone Experiment ([pdf](http://www.di.ens.fr/~pouzet/bib/chap_lucid_synchrone_english_iste08.pdf))
+
+Noted by the Elm author as [very similar](http://elm-lang.org/blog/farewell-to-frp) to his ideas
+
+## Past Meetings
+
 ### June 13/14
 
 Implementing Explicit and Finding Implicit Sharing in Embedded DSLs
@@ -18,7 +26,6 @@ Artifacts
 - https://gist.github.com/bkase/1cd8ed42b8fd41a4033d367b15b88f3c
 - https://gist.github.com/chriseidhof/2ae5879a23888df40a7a18bedd5c53cc
 
-## Past Meetings
 
 ### May 30
 
