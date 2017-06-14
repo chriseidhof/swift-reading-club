@@ -12,6 +12,12 @@ Implementing Explicit and Finding Implicit Sharing in Embedded DSLs
 
 http://okmij.org/ftp/tagless-final/sharing/sharing.pdf
 
+Summary: [2017-06-14-sharing.md](2017-06-14-sharing.md)
+
+Artifacts
+- https://gist.github.com/bkase/1cd8ed42b8fd41a4033d367b15b88f3c
+- https://gist.github.com/chriseidhof/2ae5879a23888df40a7a18bedd5c53cc
+
 ## Past Meetings
 
 ### May 30
