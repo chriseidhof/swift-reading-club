@@ -88,3 +88,10 @@ Things that might be interesting to read:
 
 - Synchronous Functional Programming: The Lucid Synchrone Experiment ([pdf](http://www.di.ens.fr/~pouzet/bib/chap_lucid_synchrone_english_iste08.pdf))
    - Noted by the Elm author as [very similar](http://elm-lang.org/blog/farewell-to-frp) to his ideas
+
+- The Derivative of a Regular Type is its Type of One-Hole Contexts (Connor McBride 2001)
+   - Making zippers for things
+
+- Clowns to the left of me, Jokers to the right (Dissecting data structures) (Connor McBride 2006)
+   - Cited by Phil Freeman as allowing stack-safe traversals
+   - Make sure to read type Derivatives first
