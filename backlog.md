@@ -95,3 +95,6 @@ Things that might be interesting to read:
 - Clowns to the left of me, Jokers to the right (Dissecting data structures) (Connor McBride 2006)
    - Cited by Phil Freeman as allowing stack-safe traversals
    - Make sure to read type Derivatives first
+   
+- Writing Parsers Like it is 2017 (Pierre Chifflier, Geoffroy Couprie)
+   - http://spw17.langsec.org/papers/chifflier-parsing-in-2017.pdf
