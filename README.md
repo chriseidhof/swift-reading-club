@@ -6,13 +6,17 @@ We have a Google Calendar with the upcoming meetings:
 
 ## Upcoming
 
+## July 5
+
+http://www.cs.ox.ac.uk/people/jeremy.gibbons/publications/poptics.pdf
+
+## Past Meetings
+
 ## June 27
 
 Synchronous Functional Programming: The Lucid Synchrone Experiment ([pdf](http://www.di.ens.fr/~pouzet/bib/chap_lucid_synchrone_english_iste08.pdf))
 
 Noted by the Elm author as [very similar](http://elm-lang.org/blog/farewell-to-frp) to his ideas
-
-## Past Meetings
 
 ### June 13/14
 
