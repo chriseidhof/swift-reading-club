@@ -55,7 +55,7 @@ Things that might be interesting to read:
 
 - Asymptotic Improvement of Computations over Free Monads (Voigtlander J)
 
-- A Lightweight Approach to Datatype-Generic Rewriting (Van Noort T, Rodriquez A, et. al)
+- ~~A Lightweight Approach to Datatype-Generic Rewriting (Van Noort T, Rodriquez A, et. al)~~
 
 - Robust & Precise incremental parsing of Haskell (Karlsson A)
 
