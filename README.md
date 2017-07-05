@@ -6,11 +6,17 @@ We have a Google Calendar with the upcoming meetings:
 
 ## Upcoming
 
+## July 12
+
+- Compiling to Categories
+   - http://conal.net/papers/compiling-to-categories/ (video and paper)
+
+## Past Meetings
+
 ## July 5
 
 http://www.cs.ox.ac.uk/people/jeremy.gibbons/publications/poptics.pdf
 
-## Past Meetings
 
 ## June 27
 
