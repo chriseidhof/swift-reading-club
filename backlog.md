@@ -101,3 +101,6 @@ Things that might be interesting to read:
 
 - Compiling to Categories
    - http://conal.net/papers/compiling-to-categories/ (video and paper)
+   
+- Idioms are oblivious, arrows are meticulous, monads are promiscuous
+   - http://homepages.inf.ed.ac.uk/wadler/papers/arrows-and-idioms/arrows-and-idioms.pdf
