@@ -98,3 +98,6 @@ Things that might be interesting to read:
    
 - Writing Parsers Like it is 2017 (Pierre Chifflier, Geoffroy Couprie)
    - http://spw17.langsec.org/papers/chifflier-parsing-in-2017.pdf
+
+- Compiling to Categories
+   - http://conal.net/papers/compiling-to-categories/ (video and paper)
