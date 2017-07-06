@@ -99,8 +99,13 @@ Things that might be interesting to read:
 - Writing Parsers Like it is 2017 (Pierre Chifflier, Geoffroy Couprie)
    - http://spw17.langsec.org/papers/chifflier-parsing-in-2017.pdf
 
-- Compiling to Categories
+- Compiling to Categories (Conal Elliott)
    - http://conal.net/papers/compiling-to-categories/ (video and paper)
    
-- Idioms are oblivious, arrows are meticulous, monads are promiscuous
+- Idioms are oblivious, arrows are meticulous, monads are promiscuous (Wadler et al.)
    - http://homepages.inf.ed.ac.uk/wadler/papers/arrows-and-idioms/arrows-and-idioms.pdf
+  
+- There is no Fork: An Abstraction for Efficient, Concurrent, and Concise Data Access (Simon Marlow et al.)
+   - http://community.haskell.org/~simonmar/papers/haxl-icfp14.pdf
+
+
