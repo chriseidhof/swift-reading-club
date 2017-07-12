@@ -6,19 +6,25 @@ We have a Google Calendar with the upcoming meetings:
 
 ## Upcoming
 
-## July 12
+## July 19
+
+-  Defunctionalization at Work (Danvy)
+  - http://www.brics.dk/RS/01/23/BRICS-RS-01-23.pdf
+
+
+## Past Meetings
+
+### July 12
 
 - Compiling to Categories
    - http://conal.net/papers/compiling-to-categories/ (video and paper)
 
-## Past Meetings
-
-## July 5
+### July 5
 
 http://www.cs.ox.ac.uk/people/jeremy.gibbons/publications/poptics.pdf
 
 
-## June 27
+### June 27
 
 Synchronous Functional Programming: The Lucid Synchrone Experiment ([pdf](http://www.di.ens.fr/~pouzet/bib/chap_lucid_synchrone_english_iste08.pdf))
 
