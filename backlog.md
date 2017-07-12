@@ -107,5 +107,8 @@ Things that might be interesting to read:
   
 - There is no Fork: An Abstraction for Efficient, Concurrent, and Concise Data Access (Simon Marlow et al.)
    - http://community.haskell.org/~simonmar/papers/haxl-icfp14.pdf
+   
+- A Theory of Changes for Higher-Order Languages - Incrementalizing λ-Calculi by Static Differentiation
+   - https://arxiv.org/pdf/1312.0658.pdf
 
 
