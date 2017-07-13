@@ -77,12 +77,12 @@ Things that might be interesting to read:
 
 - Algebraic Subtyping (Dolan S)
 
-- Defunctionalization at Work (Danvy O)
+- ~~Defunctionalization at Work (Danvy O)~~
 
 - The Key to a Data Parallel Compiler (Aaron Hsu)
     - explains the "path matrix" structure for data-paralell tree transformations
 
-- Generic Porgramming with Adjunctions (Ralf Hinze)
+- Generic Programming with Adjunctions (Ralf Hinze)
 
 - Galculator: functional prototype of a Galois-connection based proof assistant (Paulo Silva, Jose Oliveira)
 
@@ -99,7 +99,7 @@ Things that might be interesting to read:
 - Writing Parsers Like it is 2017 (Pierre Chifflier, Geoffroy Couprie)
    - http://spw17.langsec.org/papers/chifflier-parsing-in-2017.pdf
 
-- Compiling to Categories (Conal Elliott)
+- ~~Compiling to Categories (Conal Elliott)~~
    - http://conal.net/papers/compiling-to-categories/ (video and paper)
    
 - Idioms are oblivious, arrows are meticulous, monads are promiscuous (Wadler et al.)
