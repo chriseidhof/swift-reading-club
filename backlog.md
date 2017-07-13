@@ -111,4 +111,5 @@ Things that might be interesting to read:
 - A Theory of Changes for Higher-Order Languages - Incrementalizing λ-Calculi by Static Differentiation
    - https://arxiv.org/pdf/1312.0658.pdf
 
-
+- Self-Adjusting Computation
+   - http://www.umut-acar.org/self-adjusting-computation (maybe we could read a thesis chapter?)
