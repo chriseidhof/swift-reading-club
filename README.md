@@ -11,7 +11,6 @@ We have a Google Calendar with the upcoming meetings:
 -  Defunctionalization at Work (Danvy)
   - http://www.brics.dk/RS/01/23/BRICS-RS-01-23.pdf
 
-Summary: [2017-07-12-compiling-to-categories.md](2017-07-12-compiling-to-categories.md)
 
 
 ## Past Meetings
@@ -20,6 +19,8 @@ Summary: [2017-07-12-compiling-to-categories.md](2017-07-12-compiling-to-categor
 
 - Compiling to Categories
    - http://conal.net/papers/compiling-to-categories/ (video and paper)
+
+Summary: [2017-07-12-compiling-to-categories.md](2017-07-12-compiling-to-categories.md)
 
 ### July 5
 
