@@ -6,14 +6,19 @@ We have a Google Calendar with the upcoming meetings:
 
 ## Upcoming
 
-## July 19
+## August 8
+
+- A Graph-Based Higher-Order Intermediate Representation
+  - http://compilers.cs.uni-saarland.de/papers/lkh15_cgo.pdf
+
+
+## Past Meetings
+
+### July 19
 
 -  Defunctionalization at Work (Danvy)
   - http://www.brics.dk/RS/01/23/BRICS-RS-01-23.pdf
 
-
-
-## Past Meetings
 
 ### July 12
 
