@@ -116,3 +116,6 @@ Things that might be interesting to read:
    
 - Different Dataflow
    - https://github.com/frankmcsherry/differential-dataflow/blob/master/differentialdataflow.pdf
+
+- Algorithm W in Swift
+   - https://gist.github.com/CodaFi/ca35a0c22fbd96eca505b5df45f2509e
