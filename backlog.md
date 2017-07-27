@@ -113,3 +113,6 @@ Things that might be interesting to read:
 
 - Self-Adjusting Computation
    - http://www.umut-acar.org/self-adjusting-computation (maybe we could read a thesis chapter?)
+   
+- Different Dataflow
+   - https://github.com/frankmcsherry/differential-dataflow/blob/master/differentialdataflow.pdf
