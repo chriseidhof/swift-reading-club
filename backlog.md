@@ -119,3 +119,6 @@ Things that might be interesting to read:
 
 - Algorithm W in Swift
    - https://gist.github.com/CodaFi/ca35a0c22fbd96eca505b5df45f2509e
+   
+- Tutorial on Implementing Dependently Typed Calculus
+   - https://www.andres-loeh.de/LambdaPi/
