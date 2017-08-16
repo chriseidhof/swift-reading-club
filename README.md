@@ -6,13 +6,16 @@ We have a Google Calendar with the upcoming meetings:
 
 ## Upcoming
 
-## August 8
+## August 16
+
+- [Principal Types for functional programs](http://web.cs.wpi.edu/~cs4536/c12/milner-damas_principal_types.pdf)
+
+## Past Meetings
+
+### August 8
 
 - A Graph-Based Higher-Order Intermediate Representation
   - http://compilers.cs.uni-saarland.de/papers/lkh15_cgo.pdf
-
-
-## Past Meetings
 
 ### July 19
 
