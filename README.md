@@ -6,11 +6,16 @@ We have a Google Calendar with the upcoming meetings:
 
 ## Upcoming
 
-## August 16
+## August 23
 
-- [Principal Types for functional programs](http://web.cs.wpi.edu/~cs4536/c12/milner-damas_principal_types.pdf)
+- [Proofs about a Folklore Let-Polymorphic Type
+Inference Algorithm](https://ropas.snu.ac.kr/~kwang/paper/98-toplas-leyi.pdf)
 
 ## Past Meetings
+
+### August 16
+
+- [Principal Types for functional programs](http://web.cs.wpi.edu/~cs4536/c12/milner-damas_principal_types.pdf)
 
 ### August 8
 
