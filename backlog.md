@@ -122,3 +122,9 @@ Things that might be interesting to read:
    
 - Tutorial on Implementing Dependently Typed Calculus
    - https://www.andres-loeh.de/LambdaPi/
+   
+- Local Type Inference (Pierce et al.)
+   - http://www.cis.upenn.edu/~bcpierce/papers/lti-toplas.pdf
+   
+- Complete and Easy Bidirectional Typechecking for Higher-Rank Polymorphism
+   - https://arxiv.org/pdf/1306.6032.pdf
