@@ -128,3 +128,6 @@ Things that might be interesting to read:
    
 - Complete and Easy Bidirectional Typechecking for Higher-Rank Polymorphism
    - https://arxiv.org/pdf/1306.6032.pdf
+
+- The Art of The Propagator (Radul/Sussman)
+   - http://web.mit.edu/~axch/www/art.pdf
