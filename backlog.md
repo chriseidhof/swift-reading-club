@@ -134,3 +134,6 @@ Things that might be interesting to read:
    
 - Freeze After Writing: Quasi-Deterministic Parallel Programming with LVars (Kuper)
    - https://www.cs.indiana.edu/~lkuper/papers/lvish-popl14.pdf
+   
+- LVars: Lattice-based Data Structures for Deterministic Parallelism
+   https://www.cs.indiana.edu/~lkuper/papers/lvars-fhpc13.pdf
