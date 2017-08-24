@@ -6,6 +6,10 @@ We have a Google Calendar with the upcoming meetings:
 
 ## Upcoming
 
+## August 30
+
+- [LVars: Lattice-based Data Structures for Deterministic Parallelism](https://www.cs.indiana.edu/~lkuper/papers/lvars-fhpc13.pdf)
+
 ## August 23
 
 - [Proofs about a Folklore Let-Polymorphic Type
