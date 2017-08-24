@@ -10,12 +10,12 @@ We have a Google Calendar with the upcoming meetings:
 
 - [LVars: Lattice-based Data Structures for Deterministic Parallelism](https://www.cs.indiana.edu/~lkuper/papers/lvars-fhpc13.pdf)
 
-## August 23
+## Past Meetings
+
+### August 23
 
 - [Proofs about a Folklore Let-Polymorphic Type
 Inference Algorithm](https://ropas.snu.ac.kr/~kwang/paper/98-toplas-leyi.pdf)
-
-## Past Meetings
 
 ### August 16
 
