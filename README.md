@@ -6,12 +6,16 @@ We have a Google Calendar with the upcoming meetings:
 
 ## Upcoming
 
-## August 30
+## Sep 7
+
+- https://github.com/snowleopard/alga-paper
+
+## Past Meetings
+
+### August 30
 
 - [LVars: Lattice-based Data Structures for Deterministic Parallelism](https://www.cs.indiana.edu/~lkuper/papers/lvars-fhpc13.pdf)
   - Also interesting: [an accompanying presentation](https://www.youtube.com/watch?v=8dFO5Ir0xqY)
-
-## Past Meetings
 
 ### August 23
 
