@@ -6,11 +6,16 @@ We have a Google Calendar with the upcoming meetings:
 
 ## Upcoming
 
-## Sep 7
+## Sep 13/14
 
-- https://github.com/snowleopard/alga-paper
+- [Linear types can change the world!](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=55F4BBCF6663EA63D1D67135E135545B?doi=10.1.1.31.5002&rep=rep1&type=pdf)
+
 
 ## Past Meetings
+
+### Sep 7
+
+- https://github.com/snowleopard/alga-paper
 
 ### August 30
 
