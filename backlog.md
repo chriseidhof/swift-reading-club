@@ -140,3 +140,6 @@ Things that might be interesting to read:
    
 - Algebraic Graphs with Class (Functional Pearl)
    - https://github.com/snowleopard/alga-paper
+
+- Structured Asynchrony with Algebraic Effects (Leijen)
+   - https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/asynceffects-msr-tr-2017-21.pdf
