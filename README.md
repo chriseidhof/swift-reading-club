@@ -6,12 +6,15 @@ We have a Google Calendar with the upcoming meetings:
 
 ## Upcoming
 
-## Sep 13/14
+### Sep 20/21
 
-- [Linear types can change the world!](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=55F4BBCF6663EA63D1D67135E135545B?doi=10.1.1.31.5002&rep=rep1&type=pdf)
-
+- [Taming Context-Sensitive Languages with Principled Stateful Parsing](http://norswap.com/pubs/sle2016.pdf)
 
 ## Past Meetings
+
+### Sep 13/14
+
+- [Linear types can change the world!](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=55F4BBCF6663EA63D1D67135E135545B?doi=10.1.1.31.5002&rep=rep1&type=pdf)
 
 ### Sep 7
 
