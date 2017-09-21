@@ -146,3 +146,6 @@ Things that might be interesting to read:
    
 - Familia: Unifying Interfaces, Type Classes, and Family Polymorphism
    - http://www.cs.cornell.edu/andru/papers/familia/familia.pdf
+   
+- Do Be Do Be Do
+   - https://pure.strath.ac.uk/portal/files/63506017/Lindley_etal_POPL_2017_do_be_do_be_do.pdf
