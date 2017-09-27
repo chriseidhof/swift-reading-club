@@ -149,3 +149,6 @@ Things that might be interesting to read:
    
 - Do Be Do Be Do
    - https://pure.strath.ac.uk/portal/files/63506017/Lindley_etal_POPL_2017_do_be_do_be_do.pdf
+   
+- Notions of Computation as Monoids
+   - https://arxiv.org/abs/1406.4823
