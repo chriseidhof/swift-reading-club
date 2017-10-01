@@ -152,3 +152,6 @@ Things that might be interesting to read:
    
 - Notions of Computation as Monoids
    - https://arxiv.org/abs/1406.4823
+   
+- The Final Pretty Printer
+   - http://davidchristiansen.dk/drafts/final-pretty-printer-draft.pdf
