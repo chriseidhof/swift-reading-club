@@ -155,3 +155,6 @@ Things that might be interesting to read:
    
 - The Final Pretty Printer
    - http://davidchristiansen.dk/drafts/final-pretty-printer-draft.pdf
+   
+- Notions of computation and monads (Moggi)
+   - http://www.cs.cmu.edu/~crary/819-f09/Moggi91.pdf
