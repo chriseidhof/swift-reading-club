@@ -158,3 +158,6 @@ Things that might be interesting to read:
    
 - Notions of computation and monads (Moggi)
    - http://www.cs.cmu.edu/~crary/819-f09/Moggi91.pdf
+   
+-  Notions of Computation as Monoids
+   - https://arxiv.org/abs/1406.4823
