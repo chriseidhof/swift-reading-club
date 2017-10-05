@@ -6,6 +6,10 @@ We have a Google Calendar with the upcoming meetings:
 
 ## Upcoming
 
+### Sep 19
+
+- [Notions of Computations as Monoids](https://arxiv.org/abs/1406.4823)
+
 ### Sep 20/21
 
 - [Taming Context-Sensitive Languages with Principled Stateful Parsing](http://norswap.com/pubs/sle2016.pdf)
