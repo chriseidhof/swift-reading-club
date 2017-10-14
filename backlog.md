@@ -21,6 +21,7 @@ Things that might be interesting to read:
 - Complete and Easy Bidirectional Typechecking for Higher-Rank Polymorphism (Dunfield J, Krishnaswami N)
 
 - Applicative Programming with Effects (McBride C)
+  - http://strictlypositive.org/Idiom.pdf
 
 - Datafun: a Functional Datalog (Arntzenius M, Krishnaswami N)
 
@@ -161,3 +162,21 @@ Things that might be interesting to read:
    
 -  Notions of Computation as Monoids
    - https://arxiv.org/abs/1406.4823
+   
+- Dolan, Stephen. 2013. “Fun with semirings: A functional pearl on the abuse of linear algebra.”
+   - https://www.cl.cam.ac.uk/~sd601/papers/semirings.pdf.
+
+- Kiselyov, Oleg, Chung-chieh Shan, Daniel P Friedman, and Amr Sabry. 2005. “Backtracking, interleaving, and terminating monad transformers (functional pearl).”
+   - http://okmij.org/ftp/Computation/monads.html#LogicT.
+
+- McIlroy, M. Douglas. 1999. “Power Series, Power Serious.” J. Funct. Program. 9 (3) (May): 325–337. 
+   - http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.333.3156&rep=rep1&type=pdf.
+
+- Okasaki, Chris. 1999. “From Fast Exponentiation to Square Matrices: An Adventure in Types.” In Proceedings of the ACM SIGPLAN International Conference on Functional Programming (ICFP’99), Paris, France, September 27-29, 1999, 34:28. ACM. 
+   - http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.456.357&rep=rep1&type=pdf.
+
+- Rivas, Exequiel, Mauro Jaskelioff, and Tom Schrijvers. 2015. “From monoids to near-semirings: The essence of MonadPlus and Alternative.” In Proceedings of the 17th International Symposium on Principles and Practice of Declarative Programming, 196–207. ACM.
+   - http://www.fceia.unr.edu.ar/~mauro/pubs/FromMonoidstoNearsemirings.pdf.
+
+- Spivey, J. Michael. 2009. “Algebras for combinatorial search.” Journal of Functional Programming 19 (3-4) (July): 469–487.
+   - https://pdfs.semanticscholar.org/db3e/373bb6e7e7837ebc524da0a25903958554ed.pdf.
