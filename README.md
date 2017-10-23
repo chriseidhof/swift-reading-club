@@ -6,11 +6,15 @@ We have a Google Calendar with the upcoming meetings:
 
 ## Upcoming
 
+### November 9/10
+
+- [Typed Tagless Final Interpreters](http://okmij.org/ftp/tagless-final/course/lecture.pdf)
+
+## Past Meetings
+
 ### Oct 18/19
 
 - [Notions of Computations as Monoids](https://arxiv.org/abs/1406.4823)
-
-## Past Meetings
 
 ### Sep 20/21
 
@@ -110,3 +114,5 @@ Summary: [2017-05-01-effects.md](2017-05-01-effects.md)
 Swift artifacts:
 - https://gist.github.com/bkase/064f3a72eb4d6a11d8e723edc6b6157d
 - https://gist.github.com/chriseidhof/c3918e870efae00eb3c1565ff6a9f289
+
+
