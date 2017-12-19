@@ -6,6 +6,13 @@ We have a Google Calendar with the upcoming meetings:
 
 ## Upcoming
 
+### January 3/4
+
+- Bitcoin Paper
+
+
+
+
 ### November 9/10
 
 - [Typed Tagless Final Interpreters](http://okmij.org/ftp/tagless-final/course/lecture.pdf)
