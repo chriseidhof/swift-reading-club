@@ -180,3 +180,7 @@ Things that might be interesting to read:
 
 - Spivey, J. Michael. 2009. “Algebras for combinatorial search.” Journal of Functional Programming 19 (3-4) (July): 469–487.
    - https://pdfs.semanticscholar.org/db3e/373bb6e7e7837ebc524da0a25903958554ed.pdf.
+   
+- Deep Learning with Dynamic Computation Graphs
+   - https://arxiv.org/abs/1702.02181
+   - Source: https://twitter.com/headinthebox/status/946234868542742530
