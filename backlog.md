@@ -184,3 +184,5 @@ Things that might be interesting to read:
 - Deep Learning with Dynamic Computation Graphs
    - https://arxiv.org/abs/1702.02181
    - Source: https://twitter.com/headinthebox/status/946234868542742530
+   
+- Mergable persistent data structures http://gazagnaire.org/pub/FGM15.pdf
