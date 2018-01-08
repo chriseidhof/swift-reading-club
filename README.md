@@ -6,12 +6,13 @@ We have a Google Calendar with the upcoming meetings:
 
 ## Upcoming
 
+### January 16/17
+
+- [Deep Learning with Dynamic Computation Graphs](https://arxiv.org/abs/1702.02181)
+
 ### January 3/4
 
 - Bitcoin Paper
-
-
-
 
 ### November 9/10
 
