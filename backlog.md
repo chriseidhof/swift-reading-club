@@ -186,3 +186,5 @@ Things that might be interesting to read:
    - Source: https://twitter.com/headinthebox/status/946234868542742530
    
 - Mergable persistent data structures http://gazagnaire.org/pub/FGM15.pdf
+
+- An algebra for distributed Big Data analytics (monoids) https://www.cambridge.org/core/journals/journal-of-functional-programming/article/an-algebra-for-distributed-big-data-analytics/580E6A327FD3AC8E4F9B0EA0408B434B
