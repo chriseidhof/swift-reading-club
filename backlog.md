@@ -188,3 +188,9 @@ Things that might be interesting to read:
 - Mergable persistent data structures http://gazagnaire.org/pub/FGM15.pdf
 
 - An algebra for distributed Big Data analytics (monoids) https://www.cambridge.org/core/journals/journal-of-functional-programming/article/an-algebra-for-distributed-big-data-analytics/580E6A327FD3AC8E4F9B0EA0408B434B
+
+- Complete and Easy Bidirectional Typechecking
+for Higher-Rank Polymorphism https://www.cl.cam.ac.uk/~nk480/bidir.pdf
+
+- Sound and Complete Bidirectional Typechecking for HigherRank
+Polymorphism with Existentials and Indexed Types (sequel to "Complete and Esay") https://arxiv.org/pdf/1601.05106.pdf
