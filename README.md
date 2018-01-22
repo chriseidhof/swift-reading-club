@@ -6,6 +6,10 @@ We have a Google Calendar with the upcoming meetings:
 
 ## Upcoming
 
+### February 1
+
+- [Complete and Easy Bidirectional Typechecking for Higher-Rank Polymorphism](https://www.cl.cam.ac.uk/~nk480/bidir.pdf)
+
 ### January 16/17
 
 - [Deep Learning with Dynamic Computation Graphs](https://arxiv.org/abs/1702.02181)
