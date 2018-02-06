@@ -194,3 +194,6 @@ for Higher-Rank Polymorphism https://www.cl.cam.ac.uk/~nk480/bidir.pdf
 
 - Sound and Complete Bidirectional Typechecking for HigherRank
 Polymorphism with Existentials and Indexed Types (sequel to "Complete and Esay") https://arxiv.org/pdf/1601.05106.pdf
+
+- Efficient and Compositional Higher Order Streams
+https://twitter.com/jdegoes/status/960619424599310339
